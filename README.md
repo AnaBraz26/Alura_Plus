@@ -2,9 +2,7 @@
 <img loading="lazy" src="https://img.shields.io/badge/STATUS-FINALIZADO-red"/>
 </p>
 
-# Em construção
- 
-# Nome do projeto
+# Alura Plus
 
 Descreva o que é o projeto e o que ele faz
 
